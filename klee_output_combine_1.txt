@@ -1,0 +1,22 @@
+p21:=:(Add w32 16
+          (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 (Add w32 N0:(Add w32 (ReadLSB w32 0 x11) (ReadLSB w32 0 y11))N0)N0)N0)N0)N0)N0)N0)N0)N0)N0)N0)N0)N0)N0)N0))                
+q21:=:0
+r21:=:0
+s21:=:0
+z21:=:0
+a21:=:(Add w32 16384
+          (ReadLSB w32 0 y11))
+b21:=:(ReadLSB w32 0 y11)
+c21:=:32768
+d21:=:65536
+op121:=:(Add w32 40960
+          (ReadLSB w32 0 y11))
+op221:=:0
+op321:=:0
+x21:=:(ReadLSB w32 0 x11)
+y21:=:(ReadLSB w32 0 y11)
+
+KLEE: done: total instructions = 586
+KLEE: done: completed paths = 1
+KLEE: done: partially completed paths = 0
+KLEE: done: generated tests = 1

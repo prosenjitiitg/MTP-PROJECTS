@@ -1,0 +1,678 @@
+IDX value is:::::::::::: 1
+1
+1
+satisfied==>0
+162
+0
+('index', 1, '==>satisfied')
+('index', 2, '==>satisfied')
+('index', 3, '==>satisfied')
+('index', 4, '==>satisfied')
+('index', 5, '==>satisfied')
+('index', 6, '==>satisfied')
+('index', 7, '==>satisfied')
+('index', 8, '==>satisfied')
+('index', 9, '==>satisfied')
+('index', 10, '==>satisfied')
+('index', 11, '==>satisfied')
+('index', 12, '==>satisfied')
+('index', 13, '==>satisfied')
+('index', 14, '==>satisfied')
+('index', 15, '==>satisfied')
+('index', 16, '==>satisfied')
+('index', 17, '==>satisfied')
+('index', 18, '==>satisfied')
+('index', 19, '==>satisfied')
+('index', 20, '==>satisfied')
+('index', 21, '==>satisfied')
+('index', 22, '==>satisfied')
+('index', 23, '==>satisfied')
+('index', 24, '==>satisfied')
+('index', 25, '==>satisfied')
+('index', 26, '==>satisfied')
+('index', 27, '==>satisfied')
+('index', 28, '==>satisfied')
+('index', 29, '==>satisfied')
+('index', 30, '==>satisfied')
+('index', 31, '==>satisfied')
+('index', 32, '==>satisfied')
+('index', 33, '==>satisfied')
+('index', 34, '==>satisfied')
+('index', 35, '==>satisfied')
+('index', 36, '==>satisfied')
+('index', 37, '==>satisfied')
+('index', 38, '==>satisfied')
+('index', 39, '==>satisfied')
+('index', 40, '==>satisfied')
+('index', 41, '==>satisfied')
+('index', 42, '==>satisfied')
+('index', 43, '==>satisfied')
+('index', 44, '==>satisfied')
+('index', 45, '==>satisfied')
+('index', 46, '==>satisfied')
+('index', 47, '==>satisfied')
+('index', 48, '==>satisfied')
+('index', 49, '==>satisfied')
+('index', 50, '==>satisfied')
+('index', 51, '==>satisfied')
+('index', 52, '==>satisfied')
+('index', 53, '==>satisfied')
+('index', 54, '==>satisfied')
+('index', 55, '==>satisfied')
+('index', 56, '==>satisfied')
+('index', 57, '==>satisfied')
+('index', 58, '==>satisfied')
+('index', 59, '==>satisfied')
+('index', 60, '==>satisfied')
+('index', 61, '==>satisfied')
+('index', 62, '==>satisfied')
+('index', 63, '==>satisfied')
+('index', 64, '==>satisfied')
+('index', 65, '==>satisfied')
+('index', 66, '==>satisfied')
+('index', 67, '==>satisfied')
+('index', 68, '==>satisfied')
+('index', 69, '==>satisfied')
+('index', 70, '==>satisfied')
+('index', 71, '==>satisfied')
+('index', 72, '==>satisfied')
+('index', 73, '==>satisfied')
+('index', 74, '==>satisfied')
+('index', 75, '==>satisfied')
+('index', 76, '==>satisfied')
+('index', 77, '==>satisfied')
+('index', 78, '==>satisfied')
+('index', 79, '==>satisfied')
+('index', 80, '==>satisfied')
+('index', 81, '==>satisfied')
+('index', 82, '==>satisfied')
+('index', 83, '==>satisfied')
+('index', 84, '==>satisfied')
+('index', 85, '==>satisfied')
+('index', 86, '==>satisfied')
+('index', 87, '==>satisfied')
+('index', 88, '==>satisfied')
+('index', 89, '==>satisfied')
+('index', 90, '==>satisfied')
+('index', 91, '==>satisfied')
+('index', 92, '==>satisfied')
+('index', 93, '==>satisfied')
+('index', 94, '==>satisfied')
+('index', 95, '==>satisfied')
+('index', 96, '==>satisfied')
+('index', 97, '==>satisfied')
+('index', 98, '==>satisfied')
+('index', 99, '==>satisfied')
+('index', 100, '==>satisfied')
+('index', 101, '==>satisfied')
+('index', 102, '==>satisfied')
+('index', 103, '==>satisfied')
+('index', 104, '==>satisfied')
+('index', 105, '==>satisfied')
+('index', 106, '==>satisfied')
+('index', 107, '==>satisfied')
+('index', 108, '==>satisfied')
+('index', 109, '==>satisfied')
+('index', 110, '==>satisfied')
+('index', 111, '==>satisfied')
+('index', 112, '==>satisfied')
+('index', 113, '==>satisfied')
+('index', 114, '==>satisfied')
+('index', 115, '==>satisfied')
+('index', 116, '==>satisfied')
+('index', 117, '==>satisfied')
+('index', 118, '==>satisfied')
+('index', 119, '==>satisfied')
+('index', 120, '==>satisfied')
+('index', 121, '==>satisfied')
+('index', 122, '==>satisfied')
+('index', 123, '==>satisfied')
+('index', 124, '==>satisfied')
+('index', 125, '==>satisfied')
+('index', 126, '==>satisfied')
+('index', 127, '==>satisfied')
+('index', 128, '==>satisfied')
+('index', 129, '==>satisfied')
+('index', 130, '==>satisfied')
+('index', 131, '==>satisfied')
+('index', 132, '==>satisfied')
+('index', 133, '==>satisfied')
+('index', 134, '==>satisfied')
+('index', 135, '==>satisfied')
+('index', 136, '==>satisfied')
+('index', 137, '==>satisfied')
+('index', 138, '==>satisfied')
+('index', 139, '==>satisfied')
+('index', 140, '==>satisfied')
+('index', 141, '==>satisfied')
+('index', 142, '==>satisfied')
+('index', 143, '==>satisfied')
+('index', 144, '==>satisfied')
+('index', 145, '==>satisfied')
+('index', 146, '==>satisfied')
+('index', 147, '==>satisfied')
+('index', 148, '==>satisfied')
+('index', 149, '==>satisfied')
+('index', 150, '==>satisfied')
+('index', 151, '==>satisfied')
+('index', 152, '==>satisfied')
+('index', 153, '==>satisfied')
+('index', 154, '==>satisfied')
+('index', 155, '==>satisfied')
+('index', 156, '==>satisfied')
+('index', 157, '==>satisfied')
+('index', 158, '==>satisfied')
+('index', 159, '==>satisfied')
+('index', 160, '==>satisfied')
+('index', 161, '==>satisfied')
+('index', 162, '==>satisfied')
+check recheck.txt file
+recheck file is empty
+IDX value is:::::::::::: 1
+2
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+160
+0
+('s2::', '=  (concat  (select  p11 (_ bv3 32) ) (concat  (select  p11 (_ bv2 32) ) (concat  (select  p11 (_ bv1 32) ) (select  p11 (_ bv0 32) ) ) ) \n ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  p_reg_29312 (_ bv3 32) ) (concat  (select  p_reg_29312 (_ bv2 32) ) (concat  (select  p_reg_29312 (_ bv1 32) ) (select  p_reg_29312 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n )')
+('index::', 1, 'failed')
+IDX value is:::::::::::: 1
+2
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+160
+160
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 2, '==>satisfied')
+('index', 3, '==>satisfied')
+('index', 4, '==>satisfied')
+('index', 5, '==>satisfied')
+('index', 6, '==>satisfied')
+('index', 7, '==>satisfied')
+('index', 8, '==>satisfied')
+('index', 9, '==>satisfied')
+('index', 10, '==>satisfied')
+('index', 11, '==>satisfied')
+('index', 12, '==>satisfied')
+('index', 13, '==>satisfied')
+('index', 14, '==>satisfied')
+('s2::', '=  (bvsub  (concat  (select  d11 (_ bv3 32) ) (concat  (select  d11 (_ bv2 32) ) (concat  (select  d11 (_ bv1 32) ) (select  d11 (_ bv0 32) ) ) ) ) (bvmul  (_ bv2 32) (concat  (select  p11 (_ bv3 32) ) (concat  (select  p11 (_ bv2 32) ) (concat  (select  p11 (_ bv1 32) ) (select  p11 (_ bv0 32) ) ) ) ) ) \n ) ((_ extract 31  0)  (bvor  (bvand  (bvand  (bvsub  (_ bv65536 64) (bvand  ((_ sign_extend 32)  (bvshl  (concat  (select  p_reg_29312 (_ bv3 32) ) (concat  (select  p_reg_29312 (_ bv2 32) ) (concat  (select  p_reg_29312 (_ bv1 32) ) (select  p_reg_29312 (_ bv0 32) ) ) ) ) (_ bv1 32) ) ) (_ bv4294967295 64) ) ) (_ bv4294967295 64) ) (_ bv4294967280 64) ) ((_ sign_extend 32)  (bvand  (concat  (select  op2_2_reg_32812 (_ bv3 32) ) (concat  (select  op2_2_reg_32812 (_ bv2 32) ) (concat  (select  op2_2_reg_32812 (_ bv1 32) ) (select  op2_2_reg_32812 (_ bv0 32) ) ) ) ) (_ bv15 32) ) ) ) \n )')
+('index::', 15, 'failed')
+IDX value is:::::::::::: 15
+2
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+160
+160
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('s2::', '=  (bvsub  (bvmul  (_ bv3 32) (concat  (select  d11 (_ bv3 32) ) (concat  (select  d11 (_ bv2 32) ) (concat  (select  d11 (_ bv1 32) ) (select  d11 (_ bv0 32) ) ) ) ) ) (concat  (select  p11 (_ bv3 32) ) (concat  (select  p11 (_ bv2 32) ) (concat  (select  p11 (_ bv1 32) ) (select  p11 (_ bv0 32) ) ) ) ) \n ) ((_ extract 31  0)  (bvor  (bvand  (bvand  ((_ sign_extend 32)  (bvsub  (_ bv196592 32) (concat  (select  shl_ln_reg_28712 (_ bv3 32) ) (concat  (select  shl_ln_reg_28712 (_ bv2 32) ) (concat  (select  shl_ln_reg_28712 (_ bv1 32) ) (select  shl_ln_reg_28712 (_ bv0 32) ) ) ) ) ) ) (_ bv4294967295 64) ) (_ bv4294967280 64) ) ((_ sign_extend 32)  (bvand  (concat  (select  op3_2_reg_33612 (_ bv3 32) ) (concat  (select  op3_2_reg_33612 (_ bv2 32) ) (concat  (select  op3_2_reg_33612 (_ bv1 32) ) (select  op3_2_reg_33612 (_ bv0 32) ) ) ) ) (_ bv15 32) ) ) ) \n )')
+('index::', 16, 'failed')
+IDX value is:::::::::::: 16
+2
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+160
+160
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 17, '==>satisfied')
+('index', 18, '==>satisfied')
+('index', 19, '==>satisfied')
+('index', 20, '==>satisfied')
+('index', 21, '==>satisfied')
+('index', 22, '==>satisfied')
+('index', 23, '==>satisfied')
+('index', 24, '==>satisfied')
+('index', 25, '==>satisfied')
+('index', 26, '==>satisfied')
+('index', 27, '==>satisfied')
+('index', 28, '==>satisfied')
+('index', 29, '==>satisfied')
+('index', 30, '==>satisfied')
+('index', 31, '==>satisfied')
+('index', 32, '==>satisfied')
+('index', 33, '==>satisfied')
+('index', 34, '==>satisfied')
+('index', 35, '==>satisfied')
+('index', 36, '==>satisfied')
+('index', 37, '==>satisfied')
+('index', 38, '==>satisfied')
+('index', 39, '==>satisfied')
+('index', 40, '==>satisfied')
+('index', 41, '==>satisfied')
+('index', 42, '==>satisfied')
+('index', 43, '==>satisfied')
+('index', 44, '==>satisfied')
+('index', 45, '==>satisfied')
+('index', 46, '==>satisfied')
+('index', 47, '==>satisfied')
+('index', 48, '==>satisfied')
+('index', 49, '==>satisfied')
+('index', 50, '==>satisfied')
+('index', 51, '==>satisfied')
+('index', 52, '==>satisfied')
+('index', 53, '==>satisfied')
+('index', 54, '==>satisfied')
+('index', 55, '==>satisfied')
+('index', 56, '==>satisfied')
+('index', 57, '==>satisfied')
+('index', 58, '==>satisfied')
+('index', 59, '==>satisfied')
+('index', 60, '==>satisfied')
+('index', 61, '==>satisfied')
+('index', 62, '==>satisfied')
+('index', 63, '==>satisfied')
+('index', 64, '==>satisfied')
+('index', 65, '==>satisfied')
+('index', 66, '==>satisfied')
+('index', 67, '==>satisfied')
+('index', 68, '==>satisfied')
+('index', 69, '==>satisfied')
+('index', 70, '==>satisfied')
+('index', 71, '==>satisfied')
+('index', 72, '==>satisfied')
+('index', 73, '==>satisfied')
+('s2::', '=  ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  shl_ln_reg_28712 (_ bv3 32) ) (concat  (select  shl_ln_reg_28712 (_ bv2 32) ) (concat  (select  shl_ln_reg_28712 (_ bv1 32) ) (select  shl_ln_reg_28712 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n ) (concat  (select  shl_ln_reg_28712 (_ bv3 32) ) (concat  (select  shl_ln_reg_28712 (_ bv2 32) ) (concat  (select  shl_ln_reg_28712 (_ bv1 32) ) (select  shl_ln_reg_28712 (_ bv0 32) ) ) ) \n )')
+('index::', 74, 'failed')
+IDX value is:::::::::::: 74
+2
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+160
+160
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 75, '==>satisfied')
+('index', 76, '==>satisfied')
+('index', 77, '==>satisfied')
+('index', 78, '==>satisfied')
+('index', 79, '==>satisfied')
+('index', 80, '==>satisfied')
+('index', 81, '==>satisfied')
+('index', 82, '==>satisfied')
+('index', 83, '==>satisfied')
+('index', 84, '==>satisfied')
+('index', 85, '==>satisfied')
+('index', 86, '==>satisfied')
+('index', 87, '==>satisfied')
+('index', 88, '==>satisfied')
+('index', 89, '==>satisfied')
+('index', 90, '==>satisfied')
+('index', 91, '==>satisfied')
+('index', 92, '==>satisfied')
+('index', 93, '==>satisfied')
+('index', 94, '==>satisfied')
+('index', 95, '==>satisfied')
+('index', 96, '==>satisfied')
+('index', 97, '==>satisfied')
+('index', 98, '==>satisfied')
+('index', 99, '==>satisfied')
+('index', 100, '==>satisfied')
+('index', 101, '==>satisfied')
+('index', 102, '==>satisfied')
+('index', 103, '==>satisfied')
+('index', 104, '==>satisfied')
+('index', 105, '==>satisfied')
+('index', 106, '==>satisfied')
+('index', 107, '==>satisfied')
+('index', 108, '==>satisfied')
+('index', 109, '==>satisfied')
+('index', 110, '==>satisfied')
+('index', 111, '==>satisfied')
+('index', 112, '==>satisfied')
+('index', 113, '==>satisfied')
+('index', 114, '==>satisfied')
+('index', 115, '==>satisfied')
+('index', 116, '==>satisfied')
+('index', 117, '==>satisfied')
+('index', 118, '==>satisfied')
+('index', 119, '==>satisfied')
+('index', 120, '==>satisfied')
+('index', 121, '==>satisfied')
+('index', 122, '==>satisfied')
+('index', 123, '==>satisfied')
+('index', 124, '==>satisfied')
+('index', 125, '==>satisfied')
+('index', 126, '==>satisfied')
+('index', 127, '==>satisfied')
+('index', 128, '==>satisfied')
+('index', 129, '==>satisfied')
+('index', 130, '==>satisfied')
+('index', 131, '==>satisfied')
+('index', 132, '==>satisfied')
+('index', 133, '==>satisfied')
+('index', 134, '==>satisfied')
+('index', 135, '==>satisfied')
+('index', 136, '==>satisfied')
+('index', 137, '==>satisfied')
+('index', 138, '==>satisfied')
+('index', 139, '==>satisfied')
+('index', 140, '==>satisfied')
+('index', 141, '==>satisfied')
+('index', 142, '==>satisfied')
+('index', 143, '==>satisfied')
+('index', 144, '==>satisfied')
+('index', 145, '==>satisfied')
+('index', 146, '==>satisfied')
+('index', 147, '==>satisfied')
+('index', 148, '==>satisfied')
+('index', 149, '==>satisfied')
+('index', 150, '==>satisfied')
+('index', 151, '==>satisfied')
+('index', 152, '==>satisfied')
+('index', 153, '==>satisfied')
+('index', 154, '==>satisfied')
+('index', 155, '==>satisfied')
+('index', 156, '==>satisfied')
+('s2::', '=  (_ bv16 32) (bvsub  (concat  (select  p11 (_ bv3 32) ) (concat  (select  p11 (_ bv2 32) ) (concat  (select  p11 (_ bv1 32) ) (select  p11 (_ bv0 32) ) ) ) \n ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  shl_ln_reg_28712 (_ bv3 32) ) (concat  (select  shl_ln_reg_28712 (_ bv2 32) ) (concat  (select  shl_ln_reg_28712 (_ bv1 32) ) (select  shl_ln_reg_28712 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n ) )')
+('index::', 157, 'failed')
+IDX value is:::::::::::: 157
+2
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+160
+160
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 158, '==>satisfied')
+('index', 159, '==>satisfied')
+('index', 160, '==>satisfied')
+check recheck.txt file
+reached here----->
+===============================>>>>>>>>>>> 1
+2
+2
+satisfied==>0
+satisfied==>1
+5
+0
+('index', 1, '==>satisfied')
+('index', 2, '==>satisfied')
+('index', 3, '==>satisfied')
+('index', 4, '==>satisfied')
+('index', 5, '==>satisfied')
+IDX value is:::::::::::: 1
+4
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>0
+159
+0
+('s2::', '=  (concat  (select  p11 (_ bv3 32) ) (concat  (select  p11 (_ bv2 32) ) (concat  (select  p11 (_ bv1 32) ) (select  p11 (_ bv0 32) ) ) ) \n ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  p_reg_29312 (_ bv3 32) ) (concat  (select  p_reg_29312 (_ bv2 32) ) (concat  (select  p_reg_29312 (_ bv1 32) ) (select  p_reg_29312 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n )')
+('index::', 1, 'failed')
+IDX value is:::::::::::: 1
+4
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>0
+159
+159
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 2, '==>satisfied')
+('s2::', '=  (bvadd  (concat  (select  op111 (_ bv3 32) ) (concat  (select  op111 (_ bv2 32) ) (concat  (select  op111 (_ bv1 32) ) (select  op111 (_ bv0 32) ) ) ) ) (concat  (select  op311 (_ bv3 32) ) (concat  (select  op311 (_ bv2 32) ) (concat  (select  op311 (_ bv1 32) ) (select  op311 (_ bv0 32) ) ) ) ) \n ) ((_ extract 31  0)  (bvand  ((_ sign_extend 32)  (bvadd  (ite  (=  (_ bv1 32) (bvand  (ite  (bvslt  (concat  (select  op1_0_reg_8712 (_ bv3 32) ) (concat  (select  op1_0_reg_8712 (_ bv2 32) ) (concat  (select  op1_0_reg_8712 (_ bv1 32) ) (select  op1_0_reg_8712 (_ bv0 32) ) ) ) ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  op3_2_reg_33612 (_ bv3 32) ) (concat  (select  op3_2_reg_33612 (_ bv2 32) ) (concat  (select  op3_2_reg_33612 (_ bv1 32) ) (select  op3_2_reg_33612 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) ) ) (_ bv1 32) (_ bv0 32) ) (_ bv1 32) ) ) (concat  (select  op1_0_reg_8712 (_ bv3 32) ) (concat  (select  op1_0_reg_8712 (_ bv2 32) ) (concat  (select  op1_0_reg_8712 (_ bv1 32) ) (select  op1_0_reg_8712 (_ bv0 32) ) ) ) ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  op3_2_reg_33612 (_ bv3 32) ) (concat  (select  op3_2_reg_33612 (_ bv2 32) ) (concat  (select  op3_2_reg_33612 (_ bv1 32) ) (select  op3_2_reg_33612 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) ) ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  op2_2_reg_32812 (_ bv3 32) ) (concat  (select  op2_2_reg_32812 (_ bv2 32) ) (concat  (select  op2_2_reg_32812 (_ bv1 32) ) (select  op2_2_reg_32812 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) ) ) ) (_ bv4294967295 64) ) \n )')
+('index::', 3, 'failed')
+IDX value is:::::::::::: 3
+4
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>0
+159
+159
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 4, '==>satisfied')
+('index', 5, '==>satisfied')
+('index', 6, '==>satisfied')
+('index', 7, '==>satisfied')
+('index', 8, '==>satisfied')
+('index', 9, '==>satisfied')
+('index', 10, '==>satisfied')
+('index', 11, '==>satisfied')
+('index', 12, '==>satisfied')
+('index', 13, '==>satisfied')
+('index', 14, '==>satisfied')
+('index', 15, '==>satisfied')
+('s2::', '=  (concat  (select  op211 (_ bv3 32) ) (concat  (select  op211 (_ bv2 32) ) (concat  (select  op211 (_ bv1 32) ) (select  op211 (_ bv0 32) ) ) ) \n ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  op2_2_reg_32812 (_ bv3 32) ) (concat  (select  op2_2_reg_32812 (_ bv2 32) ) (concat  (select  op2_2_reg_32812 (_ bv1 32) ) (select  op2_2_reg_32812 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n )')
+('index::', 16, 'failed')
+IDX value is:::::::::::: 16
+4
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>0
+159
+159
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 17, '==>satisfied')
+('s2::', '=  (concat  (select  op311 (_ bv3 32) ) (concat  (select  op311 (_ bv2 32) ) (concat  (select  op311 (_ bv1 32) ) (select  op311 (_ bv0 32) ) ) ) \n ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  op3_2_reg_33612 (_ bv3 32) ) (concat  (select  op3_2_reg_33612 (_ bv2 32) ) (concat  (select  op3_2_reg_33612 (_ bv1 32) ) (select  op3_2_reg_33612 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n )')
+('index::', 18, 'failed')
+IDX value is:::::::::::: 18
+4
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>0
+159
+159
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 19, '==>satisfied')
+('index', 20, '==>satisfied')
+('index', 21, '==>satisfied')
+('index', 22, '==>satisfied')
+('index', 23, '==>satisfied')
+('index', 24, '==>satisfied')
+('index', 25, '==>satisfied')
+('index', 26, '==>satisfied')
+('index', 27, '==>satisfied')
+('index', 28, '==>satisfied')
+('index', 29, '==>satisfied')
+('index', 30, '==>satisfied')
+('index', 31, '==>satisfied')
+('index', 32, '==>satisfied')
+('index', 33, '==>satisfied')
+('index', 34, '==>satisfied')
+('index', 35, '==>satisfied')
+('index', 36, '==>satisfied')
+('index', 37, '==>satisfied')
+('index', 38, '==>satisfied')
+('index', 39, '==>satisfied')
+('index', 40, '==>satisfied')
+('index', 41, '==>satisfied')
+('index', 42, '==>satisfied')
+('index', 43, '==>satisfied')
+('index', 44, '==>satisfied')
+('index', 45, '==>satisfied')
+('index', 46, '==>satisfied')
+('index', 47, '==>satisfied')
+('index', 48, '==>satisfied')
+('index', 49, '==>satisfied')
+('index', 50, '==>satisfied')
+('index', 51, '==>satisfied')
+('index', 52, '==>satisfied')
+('index', 53, '==>satisfied')
+('index', 54, '==>satisfied')
+('index', 55, '==>satisfied')
+('index', 56, '==>satisfied')
+('index', 57, '==>satisfied')
+('index', 58, '==>satisfied')
+('index', 59, '==>satisfied')
+('index', 60, '==>satisfied')
+('index', 61, '==>satisfied')
+('index', 62, '==>satisfied')
+('index', 63, '==>satisfied')
+('index', 64, '==>satisfied')
+('index', 65, '==>satisfied')
+('index', 66, '==>satisfied')
+('index', 67, '==>satisfied')
+('index', 68, '==>satisfied')
+('index', 69, '==>satisfied')
+('index', 70, '==>satisfied')
+('index', 71, '==>satisfied')
+('index', 72, '==>satisfied')
+('index', 73, '==>satisfied')
+('index', 74, '==>satisfied')
+('s2::', '=  ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  shl_ln_reg_28712 (_ bv3 32) ) (concat  (select  shl_ln_reg_28712 (_ bv2 32) ) (concat  (select  shl_ln_reg_28712 (_ bv1 32) ) (select  shl_ln_reg_28712 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n ) (concat  (select  shl_ln_reg_28712 (_ bv3 32) ) (concat  (select  shl_ln_reg_28712 (_ bv2 32) ) (concat  (select  shl_ln_reg_28712 (_ bv1 32) ) (select  shl_ln_reg_28712 (_ bv0 32) ) ) ) \n )')
+('index::', 75, 'failed')
+IDX value is:::::::::::: 75
+4
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>0
+159
+159
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 76, '==>satisfied')
+('index', 77, '==>satisfied')
+('index', 78, '==>satisfied')
+('index', 79, '==>satisfied')
+('index', 80, '==>satisfied')
+('index', 81, '==>satisfied')
+('index', 82, '==>satisfied')
+('index', 83, '==>satisfied')
+('index', 84, '==>satisfied')
+('index', 85, '==>satisfied')
+('index', 86, '==>satisfied')
+('index', 87, '==>satisfied')
+('index', 88, '==>satisfied')
+('index', 89, '==>satisfied')
+('index', 90, '==>satisfied')
+('index', 91, '==>satisfied')
+('index', 92, '==>satisfied')
+('index', 93, '==>satisfied')
+('index', 94, '==>satisfied')
+('index', 95, '==>satisfied')
+('index', 96, '==>satisfied')
+('index', 97, '==>satisfied')
+('index', 98, '==>satisfied')
+('index', 99, '==>satisfied')
+('index', 100, '==>satisfied')
+('index', 101, '==>satisfied')
+('index', 102, '==>satisfied')
+('index', 103, '==>satisfied')
+('index', 104, '==>satisfied')
+('index', 105, '==>satisfied')
+('index', 106, '==>satisfied')
+('index', 107, '==>satisfied')
+('index', 108, '==>satisfied')
+('index', 109, '==>satisfied')
+('index', 110, '==>satisfied')
+('index', 111, '==>satisfied')
+('index', 112, '==>satisfied')
+('index', 113, '==>satisfied')
+('index', 114, '==>satisfied')
+('index', 115, '==>satisfied')
+('index', 116, '==>satisfied')
+('index', 117, '==>satisfied')
+('index', 118, '==>satisfied')
+('index', 119, '==>satisfied')
+('index', 120, '==>satisfied')
+('index', 121, '==>satisfied')
+('index', 122, '==>satisfied')
+('index', 123, '==>satisfied')
+('index', 124, '==>satisfied')
+('index', 125, '==>satisfied')
+('index', 126, '==>satisfied')
+('index', 127, '==>satisfied')
+('index', 128, '==>satisfied')
+('index', 129, '==>satisfied')
+('index', 130, '==>satisfied')
+('index', 131, '==>satisfied')
+('index', 132, '==>satisfied')
+('index', 133, '==>satisfied')
+('index', 134, '==>satisfied')
+('index', 135, '==>satisfied')
+('index', 136, '==>satisfied')
+('index', 137, '==>satisfied')
+('index', 138, '==>satisfied')
+('index', 139, '==>satisfied')
+('index', 140, '==>satisfied')
+('index', 141, '==>satisfied')
+('index', 142, '==>satisfied')
+('index', 143, '==>satisfied')
+('index', 144, '==>satisfied')
+('index', 145, '==>satisfied')
+('index', 146, '==>satisfied')
+('index', 147, '==>satisfied')
+('index', 148, '==>satisfied')
+('index', 149, '==>satisfied')
+('index', 150, '==>satisfied')
+('index', 151, '==>satisfied')
+('index', 152, '==>satisfied')
+('index', 153, '==>satisfied')
+('index', 154, '==>satisfied')
+('index', 155, '==>satisfied')
+('s2::', '=  (_ bv16 32) (bvsub  (concat  (select  p11 (_ bv3 32) ) (concat  (select  p11 (_ bv2 32) ) (concat  (select  p11 (_ bv1 32) ) (select  p11 (_ bv0 32) ) ) ) \n ) ((_ extract 31  0)  (bvand  (bvand  (bvand  ((_ sign_extend 32)  (concat  (select  shl_ln_reg_28712 (_ bv3 32) ) (concat  (select  shl_ln_reg_28712 (_ bv2 32) ) (concat  (select  shl_ln_reg_28712 (_ bv1 32) ) (select  shl_ln_reg_28712 (_ bv0 32) ) ) ) ) ) (_ bv4294967280 64) ) (_ bv4294967295 64) ) (_ bv4294967295 64) ) \n ) )')
+('index::', 156, 'failed')
+IDX value is:::::::::::: 156
+4
+2
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>1
+satisfied==>0
+satisfied==>0
+159
+159
+============================================>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<======================================================================
+('index', 157, '==>satisfied')
+('index', 158, '==>satisfied')
+('index', 159, '==>satisfied')
+check recheck.txt file
+reached here----->
+===============================>>>>>>>>>>> 1
+8
+4
+satisfied==>0
+satisfied==>0
+satisfied==>2
+satisfied==>1
+satisfied==>3
+satisfied==>3
+satisfied==>1
+satisfied==>2
+6
+0
+('index', 1, '==>satisfied')
+('index', 2, '==>satisfied')
+('index', 3, '==>satisfied')
+('index', 4, '==>satisfied')
+('index', 5, '==>satisfied')
+('index', 6, '==>satisfied')
+files are same

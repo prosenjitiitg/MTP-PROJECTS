@@ -1,0 +1,11 @@
+1.in testcase folder make sr_code.txt
+2.in testcase folder make ge_code.txt		==> for daikon invarient code
+3.in testcase folder make cut_point.txt
+4.in testcase folder make define_code.txt (also make define_code.txt folder in original folder)
+5.in testcase folder make create script.txt(also make it in script.txt in original folder) 
+7.in testcase folder make put code of each path in codes/ folder(make code folder in original folder)(code1.txt)
+8.in testcase folder make fill reintiate.txt
+9.create testcases based on no of testcases
+10.change fo,f1,f2,f3,f4 values in both btp_start.sh and start.sh
+11../btp_start.sh
+12../start.sh	
