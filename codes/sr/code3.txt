@@ -1,0 +1,23 @@
+if(op1<op2)
+{
+	if(op2<op3)
+	{
+		z= op1+op2;
+	}
+	else
+	{
+		z = op1+op3;
+	}
+}
+else
+{
+	if(op1<op3)
+	{
+		z= op2+op1;
+	}
+	else
+	{
+		z=op2+op3;
+	}
+}
+
