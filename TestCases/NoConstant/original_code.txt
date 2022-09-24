@@ -1,0 +1,42 @@
+  op1 = GG1 * i1;
+  op2 = GG2 * i2;
+  op3 = G1 * i2;
+  op4 = G2 * i1;
+  if (G1 > 10)
+  {
+     op5 = G1 * i3;
+     op5 = op5 + GG1;
+     op6 = op5 - op4;
+  }
+  else
+  {
+     op5 = i3 * i4;
+     op6 = op5 - op3;
+  }
+
+  if (op5 < op4)
+  {
+     op6 = G2 * i4;
+     op6 = op6 - i3;
+     op17 = op6 - G2;
+  }
+  else
+  {
+     op17 = op2 - op4;
+     op2 = op4 - op17;
+     op17 = op17 - op2;
+  }
+  op7 = G1 * i4;
+  op8 = G2 * i3;
+  //cut1
+
+  op9 = op1 + op2;
+  op10 = op3 + op4;
+  op11 = op4 + op6;
+  op12 = op7 + op8;
+
+  op13 = op11 + G1;
+  o1 = op13;
+  op14 = i6 + op12;
+  o2 = op14;
+  //cut2

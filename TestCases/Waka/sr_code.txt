@@ -1,0 +1,25 @@
+out30 = 0;
+t5 = in3 - in4;      
+t6 = in7 + in8;      
+out13 = in14 - in15;   
+t11 = t6 + in12;    
+if (in2 == in1)    
+ t16 = t11 - in17;  
+else
+{
+ t18 = in19 + in20;  
+ if (in9 < in10)     
+ {
+  t21 = t11 + in22; 
+  t23 = t5 - in24;  
+  t25 = t21 + t23;
+  t26 = t25 + in27; 
+ }
+ else
+  t26 = t5 + t18;  
+  t16 = t26 - in28;  
+  out30 = t26 + in29;  
+}
+out31 = t16 + in32;   
+return_port = out13 + out30 + out31;
+

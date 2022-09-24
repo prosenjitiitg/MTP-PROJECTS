@@ -1,0 +1,4 @@
+int  do_twos_complement( int  a ,int width){
+	return a;	
+}
+
