@@ -7,5 +7,5 @@
 8.in testcase folder make fill reintiate.txt
 9.create testcases based on no of testcases
 10.change fo,f1,f2,f3,f4 values in both btp_start.sh and start.sh
-11../btp_start.sh
+11../mtp_start.sh
 12../start.sh	
