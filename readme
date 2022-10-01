@@ -6,6 +6,6 @@
 7.in testcase folder make put code of each path in codes/ folder(make code folder in original folder)(code1.txt)
 8.in testcase folder make fill reintiate.txt
 9.create testcases based on no of testcases
-10.change fo,f1,f2,f3,f4 values in both btp_start.sh and start.sh
+10.change fo,f1,f2,f3,f4 values in both mtp_start.sh and start.sh
 11../mtp_start.sh
 12../start.sh	
